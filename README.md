@@ -26,7 +26,7 @@ puissance4/
 
 **Lola Combrouze**, **Romain Galut**, **Pierre Bourrandy** - **ENSIL-ENSCI**
 
-Ce projet a été réalisé dans le cadre du module d'informatique de 1ère année de FIMI. 
+Ce projet a été réalisé dans le cadre du module d'informatique de 1ère année de Formation Initiale aux Métiers d'Ingénieurs. 
 
 ## Contact detail
 pierre.bourrandy@etu.unilim.fr *(ENSIL-ENSCI)*
