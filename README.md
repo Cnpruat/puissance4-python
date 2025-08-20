@@ -24,7 +24,7 @@ puissance4/
 # 👨‍🏭 Auteurs
 
 
-**Lola Combrouze**, **Romain Galut**, **Pierre Bourrandy** - 1ère année de Formation Initiale aux Métiers d'Ingénieurs - **ENSIL-ENSCI**
+**Lola Combrouze**, **Romain Galut**, **Pierre Bourrandy** - **ENSIL-ENSCI**
 
 Ce projet a été réalisé dans le cadre du module d'informatique de 1ère année de FIMI. 
 
