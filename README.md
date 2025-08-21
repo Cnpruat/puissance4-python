@@ -28,7 +28,7 @@ puissance4/
 
 Ce projet a été réalisé dans le cadre du module d'informatique de 1ère année de Formation Initiale aux Métiers d'Ingénieurs. 
 
-## Contact detail
+## Contact 
 pierre.bourrandy@etu.unilim.fr *(ENSIL-ENSCI)*
 
 https://github.com/Cnpruat/puissance4-python *(GitHub)*
